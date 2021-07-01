@@ -31,7 +31,7 @@ PF.png![PF](https://user-images.githubusercontent.com/76866582/124063005-da604f0
 
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1RMsxDNuzj0mV4-ZisW9dEEyne3W5kaY5EE100yutUug/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1RMsxDNuzj0mV4-ZisW9dEEyne3W5kaY5EE100yutUug/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
