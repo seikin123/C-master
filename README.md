@@ -25,7 +25,7 @@
 
 ## 設計書
 ・ワイヤーフレーム  
-https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing
+https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
 ・ER図  
 PF.png![PF](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)
 
