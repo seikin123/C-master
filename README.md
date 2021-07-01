@@ -27,7 +27,8 @@
 ・ワイヤーフレーム  
 https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing
 ・ER図  
-PF.png![PF](https://user-images.githubusercontent.com/76866582/124062432-b6e8d480-da6b-11eb-9e53-8a4fcf487db0.png)
+PF.png![PF](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)
+
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1RMsxDNuzj0mV4-ZisW9dEEyne3W5kaY5EE100yutUug/edit#gid=0>
