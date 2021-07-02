@@ -27,8 +27,13 @@
 ・ワイヤーフレーム  
 https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
 ・ER図  
-PF.png![PF](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)
-
+PF.png![PF](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)  
+・画面遷移図  
+https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
+・詳細設計  
+https://docs.google.com/spreadsheets/d/1CqD-Dpl0iYyahEASqE3h_a-tChcEEIb2CW9Zpy1F1k8/edit?usp=sharing  
+・テーブル定義書  
+https://docs.google.com/spreadsheets/d/1OdN-eTVas1kPd5Q0u45LvyXtNMwQhGkupLwIIJBInFU/edit?usp=sharing  
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1RMsxDNuzj0mV4-ZisW9dEEyne3W5kaY5EE100yutUug/edit?usp=sharing
