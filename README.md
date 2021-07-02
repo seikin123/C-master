@@ -23,9 +23,8 @@
 例えば、1日の中で、始業前などの隙間時間で利用していたければ、日常的に使えるコマンドが増えていきます。
 
 
-## 設計書
-・ER図  
-[PF](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)  
+## 設計書   
+・[ER図](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)  
 ・ワイヤーフレーム  
 https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
 ・画面遷移図  
