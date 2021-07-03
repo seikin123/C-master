@@ -24,7 +24,7 @@
 
 
 ## 設計書   
-・[ER図](https://user-images.githubusercontent.com/76866582/124063005-da604f00-da6c-11eb-8f68-9b65d8904f16.png)  
+・[ER図](https://user-images.githubusercontent.com/76866582/124342788-89359400-dc01-11eb-83f2-6ff564add3be.png)
 ・ワイヤーフレーム  
 https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
 ・画面遷移図  
