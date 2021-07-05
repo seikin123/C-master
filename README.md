@@ -24,7 +24,7 @@
 
 
 ## 設計書   
-・PF.drawio
+・[ER図](https://user-images.githubusercontent.com/76866582/124421820-342e8500-dd9d-11eb-87bd-112f88dc19ea.png)  
 ・ワイヤーフレーム  
 https://drive.google.com/file/d/10rutLDTEoI5WyI22Hg3Eih6cRN9Dcmch/view?usp=sharing  
 ・画面遷移図  
